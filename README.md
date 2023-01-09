@@ -35,10 +35,10 @@ $ mkdir -p lib
 $ mkdir -p test
 ```
 
-## Build
+## Run
 ```
-$ go fmt       # auto formating
-$ go build     # source code build
+$ go fmt
+$ go run [GO_FILE]
 ```
 
 ## Module
